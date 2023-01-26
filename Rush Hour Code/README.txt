@@ -5,7 +5,7 @@
 This program was developed using VS Code, to run the program 
 press the run button and the prompts will guide you. 
 
-Make sure you have the input file in the same directory as well as the tools.py file
+Make sure you have the input file in the same directory as well as the tools.py file. The input file deisgned for this project is called rh.txt.
 
 Software
 MAC PRO 
